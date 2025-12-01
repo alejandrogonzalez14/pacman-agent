@@ -1,4 +1,0 @@
-[submodule "pacman-contest"]
-	path = pacman-contest
-	url = https://github.com/alejandrogonzalez14/pacman-contest.git
-	branch = main
